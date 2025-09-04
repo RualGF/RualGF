@@ -50,8 +50,8 @@ Aquí encontrarás una colección de mis proyectos, experimentos y contribucione
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
 
 <!-- Bibliotecas de Ciencia de Datos (pequeño) -->
-<br>
-**Data Science:**  
+
+**Data Science:**  <br>
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
 ![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)

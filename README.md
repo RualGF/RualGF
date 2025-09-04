@@ -32,9 +32,34 @@ Aquí encontrarás una colección de mis proyectos, experimentos y contribucione
 
 ## 🛠️ Skills & Technologies / Habilidades y Tecnologías
 
-- **HTML, CSS, JavaScript, Python (Data Science libraries), MySQL, SQL Server, Oracle**
-- **Web development with PHP and ASP .NET, Visual Basic .Net, C++, WordPress**
-- **Currently learning C# with .NET**
+<!-- Lenguajes y frameworks principales (grande) -->
+![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![ASP .NET](https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge)
+![Visual Basic .NET](https://img.shields.io/badge/VB.NET-68217A?logo=dotnet&logoColor=white&style=for-the-badge)
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2b%2b&logoColor=white&style=for-the-badge)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?logo=wordpress&logoColor=white&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=for-the-badge)
+
+<!-- Bases de datos (grande) -->
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoftsqlserver&logoColor=white&style=for-the-badge)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?logo=oracle&logoColor=white&style=for-the-badge)
+
+<!-- Bibliotecas de Ciencia de Datos (pequeño) -->
+<br>
+**Data Science:**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white&style=flat-square)
+![pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white&style=flat-square)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=flat-square)
+
+> Currently learning C# with .NET  
+> Actualmente aprendiendo C# bajo .NET
   
 ---
 

@@ -57,6 +57,10 @@ Aquí encontrarás una colección de mis proyectos, experimentos y contribucione
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=matplotlib&logoColor=white&style=flat-square)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white&style=flat-square)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?logo=python&logoColor=white&style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit&logoColor=white&style=flat-square)
+![Plotly](https://img.shields.io/badge/Plotly-7A76FF?logo=plotly&logoColor=white&style=flat-square)
+![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
+
 
 > Currently learning C# with .NET  
 > Actualmente aprendiendo C# bajo .NET

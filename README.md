@@ -84,7 +84,7 @@ Aquí encontrarás una colección de mis proyectos, experimentos y contribucione
 
 ## 🌐 Connect With Me / Conecta Conmigo
 
-- [LinkedIn](https://www.linkedin.com/in/ra%C3%BAl-guill%C3%A9n-flores-014957a0/)
+- [LinkedIn](https://www.linkedin.com/in/raul-guillen-flores-014957a0/)
 
 ---
 

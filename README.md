@@ -62,17 +62,17 @@ Aquí encontrarás una colección de mis proyectos, experimentos y contribucione
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white&style=flat-square)
 
 
-> Currently learning C# with .NET  
-> Actualmente aprendiendo C# bajo .NET
+> Just completed .NET Cross-Platform Applications certification
+> Recién completada la certificación Aplicaciones multiplataforma con .NET
   
 ---
 
 ## 🚀 Featured Repositories / Repositorios Destacados
 
-- [**RualGF/AEMET**](https://github.com/RualGF/AEMET): Weather data & APIs / Datos meteorológicos y APIs.
-- [**Jorge-rivero-94/PROYECTO-FINAL-**](https://github.com/Jorge-rivero-94/PROYECTO-FINAL-): Final project collaboration / Colaboración en proyecto final.
+- [**Gestión de empleados**]((ttps://github.com/RualGF/Sistema-de-Gestion-de-Empleados): Basic API for managing employees/ API básica para gestionar empleados.
+- [**Jorge-rivero-94/PROYECTO-FINAL-**](https://github.com/Jorge-rivero-94/PROYECTO-FINAL-): Final project collaboration / Colaboración en proyecto final de Hack-a-boss.
 - [**RualGF/Proyecto-Hack-a-Boss-Grupo-D**](https://github.com/RualGF/Proyecto-Hack-a-Boss-Grupo-D): Hack-a-Boss group project / Proyecto grupal de Hack-a-Boss.
-- [**RualGF/Raul_Colabora**](https://github.com/RualGF/Raul_Colabora): Collaborative coding / Programación colaborativa.
+- [**Generador-de-passwords**](https://github.com/RualGF/Generador-de-passwords): Strong Password Generator and Checker (FastAPI) / Generador y Verificador de Contraseñas Seguras (FastAPI)
 
 ---
 
